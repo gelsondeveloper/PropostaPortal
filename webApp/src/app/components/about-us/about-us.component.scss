@@ -1,0 +1,25 @@
+.about {
+    background-image: url(../../../assets/img/bg_about.png);
+    background-color: #00348a;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    .about-container {
+      
+        .about-section {
+            padding: 80px 150px;
+            width: 780px;
+            .about-title {
+                padding: 5px 0;
+                color: #fff;
+            }
+             p {
+                color: #fff;
+                font-size: 17px;
+            }
+        }
+      
+       
+    }
+}

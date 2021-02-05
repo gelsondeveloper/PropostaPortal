@@ -1,0 +1,24 @@
+ .main-menu {
+     background-color: #e8ecee;
+    padding: 2rem 1rem;
+    .logo {
+        height: 30px;
+        padding-right: 40px;
+    }
+    .nav-item {
+        margin-left: 15px;
+        .btn-outline-login {
+            color: #00348a;
+            border: solid 2px #00348a;
+            padding: 0.375rem 1.5rem;
+            font-size: 16.5px;
+        }
+        .nav-link {
+            color: #00348a;
+            font-size: 16px;
+        }
+    }
+    
+
+ }
+
